@@ -1,6 +1,6 @@
 [web]
 type = "HttpListenInput"
-address = "0.0.0.0:4881"
+address = "0.0.0.0:4882"
 
 [debug_output]
 type = "LogOutput"
